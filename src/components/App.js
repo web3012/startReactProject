@@ -11,7 +11,7 @@ const HomePage = () => {
     return <div className="pageContent">Главная страница</div>
 }
 const AboutPage = () => {
-    return <div className="pageContent">О компании !!</div>
+    return <div className="pageContent">О компании !</div>
 }
 const NotFoundPage = () => {
     return <div className="pageContent">404</div>
